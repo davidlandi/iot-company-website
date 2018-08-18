@@ -28,3 +28,7 @@ margin-bottom: 40px;
 .ocxn_round{
   border-radius: 35px;
 }
+
+.text-primary {
+  color: #0091be !important;
+}
